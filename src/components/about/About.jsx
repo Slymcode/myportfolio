@@ -36,7 +36,7 @@ const About = () => {
       </div>
       <div className="about__me__aux">
         <p>
-          Full Stack Software Developer with 5+ years of work experience across
+          Full Stack Software Developer with 8+ years of work experience across
           technical, educational, commerce, health, logistics, construction, and
           finance sectors using a variety of technologies such as Javascript,
           Nodejs, TypeScript, and PHP with expertise in frontend and backend
